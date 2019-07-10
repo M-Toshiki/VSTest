@@ -8,6 +8,7 @@
 
 /*
 ほげほげ
+てすVer2
 */
 
 #include<windows.h>
