@@ -5,6 +5,11 @@
 		縦は768の12マス.
 */
 
+
+/*
+ほげほげ
+*/
+
 #include<windows.h>
 #include<stdio.h>
 #include<d3dx9.h>
